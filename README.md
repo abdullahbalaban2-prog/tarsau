@@ -72,9 +72,3 @@ Arşiv (`.sau`) iki ana bölümden oluşur:
 
 ## GitHub Kullanımı
 Bu proje GitHub üzerinde versiyon kontrol sistemi kullanılarak aşamalı şekilde geliştirilmiştir. Geliştirme süreci boyunca anlamlı commit mesajlarıyla projenin takibi sağlanmıştır. 
-
-Örnek commit mesajları:
-- `initial project structure`
-- `implement command parser`
-- `implement archive creation`
-- `add tests and documentation`
