@@ -1,0 +1,18 @@
+# Derleme çıktıları
+tarsau
+*.o
+
+# Arşiv/test çıktıları
+*.sau
+output/
+output2/
+izin_output/
+temp_current_test/
+
+# Geçici dosyalar
+*.tmp
+*.log
+
+# Editör dosyaları
+.vscode/
+.idea/
